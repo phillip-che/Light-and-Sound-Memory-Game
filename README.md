@@ -1,8 +1,6 @@
-# Pre-work - *Memory Game*
+# *Memory Game*
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
-
-Submitted by: **Phillip Che**
+By: **Phillip Che**
 
 Time spent: **4** hours spent in total
 
@@ -34,7 +32,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-The only outside resource I used was this website which I found on the prework steps: https://www.w3schools.com/css/.
+The only outside resource I used was: https://www.w3schools.com/css/.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
@@ -47,11 +45,6 @@ After completing my prework submission, I am most curious about how exactly the 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
 There are many aspects of the game which can be improved on, however, if I had a few more hours to work on this project, I would most definitely be prioritizing the design to the page to be more appealing to the user such as changing the colors, adding more texture and text to the background as well as some animations to give it life. I would also spend my remaining time on the interactions and system feedback between the game and the user to make it more enjoyable. Other optional features I would like to work on include difficulty levels with corresponding leaderboards as well as adding game modes such as having a timer, no extra lives, no color option, and no sound option. 
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://drive.google.com/file/d/1Y6GkZjW81a_nUyvTWmOb0T-pe2qzHs0p/view)
-
 
 ## License
 
